@@ -1,8 +1,0 @@
-{
-  "name": "Flash Card",
-  "description": "my first flash card",
-  "repository": "",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
-  "keywords": ["node", "express", "heroku"],
-  "image": "heroku/nodejs"
-}
