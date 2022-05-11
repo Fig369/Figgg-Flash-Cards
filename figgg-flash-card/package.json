@@ -1,0 +1,38 @@
+{
+  "name": "flash_card",
+  "version": "0.3.0",
+  "description": "Flash card system for developers",
+  "engines": {
+    "node": "16.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.5"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "got": "^11.3.0",
+    "mysql2": "^2.3.3",
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanGertis/flash_card.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvanGertis/flash_card/issues"
+  },
+  "homepage": "https://github.com/EvanGertis/flash_card#readme",
+  "author": "Figgg"
+}
